@@ -3,6 +3,7 @@ version: '3.9'
 services:
   postgresql:
     image: postgres:15
+    container_name: postgres_db
     environment:
       POSTGRES_USER: postgres
       POSTGRES_PASSWORD: YourStrong!Passw0rd
@@ -17,7 +18,17 @@ services:
       timeout: 5s
       retries: 5
 
- 
+  gestaopedidos:
+    build: .
+    container_name: gestaopedidos_app
+    ports:
+      - "5000:80"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Host=postgres_db;Port=5432;Database=pedidosdb;Username=postgres;Password=YourStrong!Passw0rd
+    depends_on:
+      postgresql:
+        condition: service_healthy
 
 volumes:
   pgdata:

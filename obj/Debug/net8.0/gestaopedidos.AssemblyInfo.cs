@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("gestaopedidos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cfc5106012eb331a78428fe761f8ed3707f91e2")]
 [assembly: System.Reflection.AssemblyProductAttribute("gestaopedidos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("gestaopedidos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

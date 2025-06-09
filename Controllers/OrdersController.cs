@@ -14,10 +14,10 @@ namespace gestaopedidos.Controllers
         private readonly OrdersRepositoryImpl ordersRepository;
        private readonly AzureServiceBusSender _serviceBusSender;
 
-        public OrdersController(OrdersRepositoryImpl orders  , AzureServiceBusSender serviceBusSender )
+        public OrdersController(OrdersRepositoryImpl orders  /*, AzureServiceBusSender serviceBusSender */)
         {
-            ordersRepository = orders;
-            _serviceBusSender = serviceBusSender;
+            ordersRepository = orders;/*
+            _serviceBusSender = serviceBusSender;*/
         }
 
         [HttpPost("orders")]
@@ -27,9 +27,9 @@ namespace gestaopedidos.Controllers
             {
                 await ordersRepository.AddAsync(orders);
 
-                string messageBody = JsonSerializer.Serialize(orders);
+             /*   string messageBody = JsonSerializer.Serialize(orders);
                 await _serviceBusSender.SendMessageAsync(messageBody);
-
+             */
                 return Ok(new
                 {
                     status = 200,

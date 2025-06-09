@@ -7,20 +7,48 @@
       "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\service\\azureservicebussender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:service\\azureservicebussender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\migrations\\20250606212359_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:migrations\\20250606212359_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\gestaopedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:gestaopedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\service\\azureservicebussender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:service\\azureservicebussender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\repositoryimpl\\ordersrepositoryimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,22 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:repository\\ordersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:models\\ordersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:libman.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\gestaopedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|solutionrelative:gestaopedidos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8607C94-9044-4FB1-B86D-F1C081877E8A}|gestaopedidos.csproj|c:\\dev\\teste\\gestaopedidos\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,11 +78,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\dev\\teste\\gestaopedidos\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:18:04.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250606212359_InitialCreate.cs",
+              "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Migrations\\20250606212359_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250606212359_InitialCreate.cs",
+              "ToolTip": "C:\\dev\\teste\\gestaopedidos\\Migrations\\20250606212359_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250606212359_InitialCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:13:04.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\dev\\teste\\gestaopedidos\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-09T17:08:50.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -83,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "AzureServiceBusSender.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Service\\AzureServiceBusSender.cs",
               "RelativeDocumentMoniker": "Service\\AzureServiceBusSender.cs",
@@ -91,18 +142,17 @@
               "RelativeToolTip": "Service\\AzureServiceBusSender.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:28:47.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:28:47.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\dev\\teste\\gestaopedidos\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T18:20:50.456Z",
               "EditorCaption": ""
@@ -115,26 +165,27 @@
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\dev\\teste\\gestaopedidos\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-06-06T18:23:36.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
               "ToolTip": "C:\\dev\\teste\\gestaopedidos\\docker-compose.yml",
               "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-06-06T18:21:07.055Z"
+              "WhenOpened": "2025-06-06T18:21:07.055Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "OrdersRepositoryImpl.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\RepositoryImpl\\OrdersRepositoryImpl.cs",
               "RelativeDocumentMoniker": "RepositoryImpl\\OrdersRepositoryImpl.cs",
@@ -142,8 +193,7 @@
               "RelativeToolTip": "RepositoryImpl\\OrdersRepositoryImpl.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwB8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T18:02:38.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T18:02:38.498Z"
             },
             {
               "$type": "Document",
@@ -155,11 +205,12 @@
               "RelativeToolTip": "gestaopedidos.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-06T18:00:35.051Z"
+              "WhenOpened": "2025-06-06T18:00:35.051Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
               "Title": "OrdersRepository.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Repository\\OrdersRepository.cs",
               "RelativeDocumentMoniker": "Repository\\OrdersRepository.cs",
@@ -167,12 +218,11 @@
               "RelativeToolTip": "Repository\\OrdersRepository.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T17:55:24.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T17:55:24.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "AppDbContext .cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Context\\AppDbContext .cs",
               "RelativeDocumentMoniker": "Context\\AppDbContext .cs",
@@ -184,20 +234,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "OrdersModel.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Models\\OrdersModel.cs",
               "RelativeDocumentMoniker": "Models\\OrdersModel.cs",
               "ToolTip": "C:\\dev\\teste\\gestaopedidos\\Models\\OrdersModel.cs",
               "RelativeToolTip": "Models\\OrdersModel.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAwwAwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwBMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T17:51:27.461Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -209,20 +259,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
               "ToolTip": "C:\\dev\\teste\\gestaopedidos\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "Controllers\\OrdersController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswBYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T17:42:13.492Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
@@ -234,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "libman.json",
               "DocumentMoniker": "C:\\dev\\teste\\gestaopedidos\\libman.json",
               "RelativeDocumentMoniker": "libman.json",
@@ -242,7 +292,8 @@
               "RelativeToolTip": "libman.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-06T17:35:29.442Z"
+              "WhenOpened": "2025-06-06T17:35:29.442Z",
+              "EditorCaption": ""
             }
           ]
         }

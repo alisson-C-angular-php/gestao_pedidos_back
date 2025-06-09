@@ -1,10 +1,14 @@
 using gestaopedidos.Context;
+using gestaopedidos.Migrations;
 using gestaopedidos.Repository;
 using gestaopedidos.RepositoryImpl;
 using gestaopedidos.Service;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.WebHost.UseUrls("http://0.0.0.0:80");
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -41,6 +45,13 @@ app.UseStaticFiles();
 app.UseRouting();
 app.UseCors("AllowLocalhost3000");
 app.UseAuthorization();
+
+
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.Migrate(); // <---- AQUI
+}
 
 app.MapControllers();
 
