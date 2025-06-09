@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "gestaopedidos.Controllers.OrdersController",
+    "Method": "InsertOrders",
+    "RelativePath": "api/Orders/orders",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orders",
+        "Type": "gestaopedidos.Models.OrdersModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "gestaopedidos.Controllers.OrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "api/Orders/orders",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "gestaopedidos.Controllers.OrdersController",
+    "Method": "GetOrders",
+    "RelativePath": "api/Orders/orders/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
